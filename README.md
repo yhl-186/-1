@@ -71,4 +71,6 @@ You can also run your existing tests suite in a native image.
 This is an efficient way to validate the compatibility of your application.
 
 To run your existing tests in a native image, run the following goal:
+```
 $ ./mvnw test -PnativeTest
+```
