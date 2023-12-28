@@ -74,3 +74,4 @@ To run your existing tests in a native image, run the following goal:
 ```
 $ ./mvnw test -PnativeTest
 ```
+[基于SSM框架的大学生教务管理系统.docx](https://github.com/yhl-186/A-College-Student-Academic-Management-System-Based-on-SSM-Framework/files/13785583/SSM.docx)
